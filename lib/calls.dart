@@ -4,6 +4,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class Calls extends StatelessWidget {
   const Calls({Key? key}) : super(key: key);
+
   // Masukkan coding disini
   @override
   Widget build(BuildContext context) {
@@ -19,7 +20,19 @@ class Calls extends StatelessWidget {
               height: 10,
             ),
 
-            // Masukkan Coding disini jangan rubah lainnya
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('Messi', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 999 999 999', style: TextStyle(fontWeight: FontWeight.bold)),
+            ), // Masukkan Coding disini jangan rubah lainnya
             //
             //
             //
