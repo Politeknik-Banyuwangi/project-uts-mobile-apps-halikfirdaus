@@ -515,7 +515,7 @@ class Chats extends StatelessWidget {
                     ),
                   ),
                 ],
-           ,  ),
+              ),
             ),
           ],
         ),
