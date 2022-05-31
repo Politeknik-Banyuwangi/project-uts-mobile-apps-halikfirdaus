@@ -28,12 +28,11 @@ class Chats extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.bold,
-                  color: Colors.grey,
                 ),
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all),
+                  Icon(Icons.done_all, color: Colors.grey),
                   Text(
                     "rahmat cipang",
                     style: TextStyle(
