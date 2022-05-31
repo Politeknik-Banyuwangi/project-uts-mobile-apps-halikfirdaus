@@ -17,6 +17,29 @@ class Chats extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 25,
+              ),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
           ],
         ),
       ),
