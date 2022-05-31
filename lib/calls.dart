@@ -30,8 +30,190 @@ class Calls extends StatelessWidget {
                 color: Colors.green,
                 size: 25.0,
               ),
-              title: Text('Messi', style: TextStyle(fontWeight: FontWeight.bold)),
-              subtitle: Text('082 999 999 999', style: TextStyle(fontWeight: FontWeight.bold)),
+              title: Text('Sayang', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.missed_video_call,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('royyan', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('adit', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.missed_video_call,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('bagas', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('rayyan', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('rahmat', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('rahmat', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('rahmat', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('misterius', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('Kawan', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('kawan2', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('sahabat', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('sahabat2', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('teman jahat', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                radius: 35,
+                backgroundImage: NetworkImage("https://i.ibb.co/JmZ72Mz/Whats-App-Image-2022-05-31-at-13-18-00.jpg"),
+              ),
+              trailing: Icon(
+                Icons.phone,
+                color: Colors.green,
+                size: 25.0,
+              ),
+              title: Text('kipal', style: TextStyle(fontWeight: FontWeight.bold)),
+              subtitle: Text('082 555 777 555', style: TextStyle(fontWeight: FontWeight.bold)),
             ), // Masukkan Coding disini jangan rubah lainnya
             //
             //
