@@ -42,6 +42,356 @@ class Chats extends StatelessWidget {
                 ],
               ),
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://awsimages.detik.net.id/community/media/visual/2022/03/25/manga-one-piece_43.webp?w=700&q=90"),
+                radius: 25,
+              ),
+              trailing: Text("21:10"),
+              title: Text(
+                "rahmat",
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(Icons.done_all, color: Colors.grey),
+                  Text(
+                    "rahmat cipang",
+                    style: TextStyle(
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ),
           ],
         ),
       ),
