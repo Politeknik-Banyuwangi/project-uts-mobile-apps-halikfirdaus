@@ -21,6 +21,7 @@ class Chats extends StatelessWidget {
               leading: CircleAvatar(
                 radius: 25,
               ),
+              trailing: Text("21:10"),
               title: Text(
                 "rahmat",
                 style: TextStyle(
